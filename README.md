@@ -209,7 +209,7 @@ aks-private-terraform/
 │   ├── versions.tf              # Terraform & provider versions
 │   ├── providers.tf             # Azure provider configuration
 │   ├── variables.tf             # Input variable definitions
-│   ├── terraform.tfvars.example # Example variable values
+│   ├── terraform.tfvars         # Example variable values
 │   ├── network.tf               # VNet, subnets, NSGs
 │   ├── private-dns.tf           # Private DNS zone setup
 │   ├── aks-management.tf        # AKS cluster configuration
