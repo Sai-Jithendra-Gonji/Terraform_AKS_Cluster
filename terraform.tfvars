@@ -1,5 +1,4 @@
 # Example terraform.tfvars file
-# Copy this to terraform.tfvars and update values as needed
 
 resource_group_name = "rg-aks-private-dev"
 location            = "UK South"
